@@ -1,0 +1,29 @@
+# Archivos compilados y empaquetados de Java
+*.class
+*.jar
+*.war
+*.ear
+hs_err_pid*
+
+# Directorios de salida de compilación
+bin/
+out/
+build/
+target/
+
+# Configuración local de editores e IDEs (VS Code, IntelliJ, Eclipse)
+.vscode/
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# Material de estudio de la cátedra (evita subir PDFs pesados al repositorio)
+material_catedra/
+
+# Registros y archivos temporales del sistema operativo (Linux / Windows / macOS)
+*.log
+*~
+.DS_Store
+Thumbs.db
